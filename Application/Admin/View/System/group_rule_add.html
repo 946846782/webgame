@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>服务器列表 服务器管理</title>
+		<meta name="keywords" content="Bootstrap模版,Bootstrap模版下载,Bootstrap教程,Bootstrap中文" />
+		<meta name="description" content="站长素材提供Bootstrap模版,Bootstrap教程,Bootstrap中文翻译等相关Bootstrap插件下载" />
+		<!-- basic styles -->
+
+		<link href="__CSS__/bootstrap.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="__CSS__/font-awesome.min.css" />
+
+		<!--[if IE 7]>
+		  <link rel="stylesheet" href="__CSS__/font-awesome-ie7.min.css" />
+		<![endif]-->
+
+		<!-- page specific plugin styles -->
+
+		<link rel="stylesheet" href="__CSS__/jquery-ui-1.10.3.full.min.css" />
+
+		<!-- ace styles -->
+
+		<link rel="stylesheet" href="__CSS__/ace.min.css" />
+		<link rel="stylesheet" href="__CSS__/ace-rtl.min.css" />
+		<link rel="stylesheet" href="__CSS__/ace-skins.min.css" />
+		<link rel="stylesheet" href="__CSS__/datepicker.css" />
+		<link rel="stylesheet" href="__CSS__/bootstrap-timepicker.css" />
+		<link rel="stylesheet" href="__CSS__/daterangepicker.css" />
+
+        <link rel="stylesheet" href="__CSS__/dialog.css" />
+        
+        
+
+		<!--[if lte IE 8]>
+		  <link rel="stylesheet" href="__CSS__/ace-ie.min.css" />
+		<![endif]-->
+
+		<!-- inline styles related to this page -->
+
+		<!-- ace settings handler -->
+
+		<script src="__JS__/ace-extra.min.js"></script>
+
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+
+		<!--[if lt IE 9]>
+		<script src="__JS__/html5shiv.js"></script>
+		<script src="__JS__/respond.min.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+		<include file="./Application/Admin/View/Common/navbar.html" />
+
+		<div class="main-container" id="main-container">
+			<script type="text/javascript">
+				try{ace.settings.check('main-container' , 'fixed')}catch(e){}
+			</script>
+
+			<div class="main-container-inner">
+				<a class="menu-toggler" id="menu-toggler" href="#">
+					<span class="menu-text"></span>
+				</a>
+
+				<include file="./Application/Admin/View/Common/sidebar.html" />
+
+				<div class="main-content">
+					<div class="breadcrumbs" id="breadcrumbs">
+						<script type="text/javascript">
+							try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){}
+						</script>
+
+						<ul class="breadcrumb">
+							<li>
+								<i class="icon-home home-icon"></i>
+								<a href="#">控制台</a>
+							</li>
+
+							<li>
+								<a href="#">全局设置</a>
+							</li>
+							<li class="active">规则权限管理</li>
+						</ul><!-- .breadcrumb -->
+
+						<div class="nav-search" id="nav-search">
+							<form class="form-search">
+								<span class="input-icon">
+									<input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+									<i class="icon-search nav-search-icon"></i>
+								</span>
+							</form>
+						</div><!-- #nav-search -->
+					</div>
+
+					<div class="page-content">
+						<!-- /.page-header -->
+
+						<div class="row">
+							<div class="col-xs-12">
+								<!-- PAGE CONTENT BEGINS -->
+
+								<div class="row">
+									<!-- ./span -->
+
+									<!-- ./span -->
+                                    
+                                    <div class="col-sm-5">
+						<div class="page-header">
+							<h1>
+								设置用户组
+								<small>
+									<i class="icon-double-angle-right"></i>
+									{$group[0]['title']}
+								</small>
+							</h1>
+						</div>
+                                   </div>
+                                   
+								</div><!-- ./row-fluid -->
+
+								<div class="space-12"></div>
+
+                                <div class="row">
+                                	<div class="col-sm-12">
+											<div class="tab-content">
+<form action="__MODULE__/System/group_rule_add" method="post" enctype="multipart/form-data">
+		<div id="admin_group-menu_main">
+		<input type="hidden" name="group_id" value="{$group[0]['id']}">
+		
+		<ul class="list-group tree tree_first" style="border-top: 1px solid #ddd;border-right: 1px solid #ddd;border-bottom: 1px solid #ddd;">
+        
+        <!-- checked="checked"  -->
+        <empty name="Auth_rule"><h1>没有数据</h1></empty>
+		<volist name ="Auth_rule" id="vo">	
+       
+		<li class="list-group-item">
+		<input type="checkbox" name="rule_ids[]" value="{$vo.id}" <?php if(in_array($vo['id'],$checked)){ echo 'checked="checked"'; } ?> >
+			<label for="admin_group_menu_item_72"><span class="text-warning icon-rainbow"></span> {$vo.title}</label>
+		</li> 
+        
+<?php if(count($vo['pid']) >0){ ?>
+		<li class="list-group-item nopadding">
+			<ul class="list-group tree">
+            
+	<volist name="vo['pid']" id="sub">
+		<li class="list-group-item">
+		<input type="checkbox" name="rule_ids[]" value="{$sub.id}" <?php if(in_array($sub['id'],$checked)){ echo 'checked="checked"'; } ?>  >
+			<label for="admin_group_menu_item_74"><span class="text-warning glyphicon glyphicon-file"></span> {$sub.title}</label>
+		</li> 
+    </volist>
+    	
+    
+    		</ul>
+        </li>    
+<?php } ?>
+
+
+        </volist>
+         
+		</ul>
+        
+        
+        <input type="hidden" name="group_id" value="{$uid}">
+        <div class="col-md-offset-3">
+                                                <button class="btn btn-info" type="submit">
+                                                    <i class="icon-ok bigger-110"></i>
+                                                    添加
+                                                </button>
+    
+                                                &nbsp; &nbsp; &nbsp;
+                                                <button class="btn" type="reset">
+                                                    <i class="icon-undo bigger-110"></i>
+                                                    重置
+                                                </button>
+        </div>
+		</div>                           	  
+</form>
+											</div>    
+									</div>
+                                </div>
+
+								<!-- ./row-fluid -->
+
+								<!-- PAGE CONTENT ENDS -->
+							</div><!-- /.col -->
+						</div><!-- /.row -->
+					</div><!-- /.page-content -->
+				</div><!-- /.main-content -->
+
+				<div class="ace-settings-container" id="ace-settings-container">
+					<div class="btn btn-app btn-xs btn-warning ace-settings-btn" id="ace-settings-btn">
+						<i class="icon-cog bigger-150"></i>
+					</div>
+
+					<div class="ace-settings-box" id="ace-settings-box">
+						<div>
+							<div class="pull-left">
+								<select id="skin-colorpicker" class="hide">
+									<option data-skin="default" value="#438EB9">#438EB9</option>
+									<option data-skin="skin-1" value="#222A2D">#222A2D</option>
+									<option data-skin="skin-2" value="#C6487E">#C6487E</option>
+									<option data-skin="skin-3" value="#D0D0D0">#D0D0D0</option>
+								</select>
+							</div>
+							<span>&nbsp; Choose Skin</span>
+						</div>
+
+						<div>
+							<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-navbar" />
+							<label class="lbl" for="ace-settings-navbar"> Fixed Navbar</label>
+						</div>
+
+						<div>
+							<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-sidebar" />
+							<label class="lbl" for="ace-settings-sidebar"> Fixed Sidebar</label>
+						</div>
+
+						<div>
+							<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-breadcrumbs" />
+							<label class="lbl" for="ace-settings-breadcrumbs"> Fixed Breadcrumbs</label>
+						</div>
+
+						<div>
+							<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-rtl" />
+							<label class="lbl" for="ace-settings-rtl"> Right To Left (rtl)</label>
+						</div>
+
+						<div>
+							<input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-add-container" />
+							<label class="lbl" for="ace-settings-add-container">
+								Inside
+								<b>.container</b>
+							</label>
+						</div>
+					</div>
+				</div><!-- /#ace-settings-container -->
+			</div><!-- /.main-container-inner -->
+
+			<a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse">
+				<i class="icon-double-angle-up icon-only bigger-110"></i>
+			</a>
+		</div><!-- /.main-container -->
+
+		<!-- basic scripts -->
+
+
+		<!--[if !IE]> -->
+
+		<script type="text/javascript">
+			window.jQuery || document.write("<script src='__JS__/jquery-2.0.3.min.js'>"+"<"+"/script>");
+		</script>
+
+		<!-- <![endif]-->
+
+		<!--[if IE]>
+<script type="text/javascript">
+ window.jQuery || document.write("<script src='__JS__/jquery-1.10.2.min.js'>"+"<"+"/script>");
+</script>
+<![endif]-->
+
+		<script type="text/javascript">
+			if("ontouchend" in document) document.write("<script src='__JS__/jquery.mobile.custom.min.js'>"+"<"+"/script>");
+		</script>
+		<script src="__JS__/bootstrap.min.js"></script>
+		<script src="__JS__/typeahead-bs2.min.js"></script>
+		<script src="__JS__/date-time/bootstrap-datepicker.min.js"></script>
+		<script src="__JS__/date-time/bootstrap-timepicker.min.js"></script>
+		<script src="__JS__/date-time/moment.min.js"></script>
+		<script src="__JS__/date-time/daterangepicker.min.js"></script>
+        <!----  WdatePicker.js   -->
+		<script type="text/javascript" src="__JS__/tool/WdatePicker.js"></script>
+
+		<!-- page specific plugin scripts -->
+
+		<script src="__JS__/jquery-ui-1.10.3.full.min.js"></script>
+		<script src="__JS__/jquery.ui.touch-punch.min.js"></script>
+        <script src="__JS__/jquery.inputlimiter.1.3.1.min.js"></script>
+
+        
+
+		<!-- ace scripts -->
+		
+		<script src="__JS__/ace-elements.min.js"></script>
+		<script src="__JS__/ace.min.js"></script>
+
+		<!-- inline scripts related to this page -->
+
+		<script type="text/javascript">
+							//检测输入的服务器区服
+				function showdesc(seq){
+					var obj = $("#seq");
+					var val = obj.val();
+					if(seq){
+						onSuccess(obj,'区服输入正确');
+						$("#serverdesc").val("双线"+seq+"区");
+					}else{
+						onError(obj,"请填入区服");
+					}
+				}
+		
+			jQuery(function($) {
+			
+				$( "#datepicker" ).datepicker({
+					showOtherMonths: true,
+					selectOtherMonths: false,
+					//isRTL:true,
+			
+					
+					/*
+					changeMonth: true,
+					changeYear: true,
+					
+					showButtonPanel: true,
+					beforeShow: function() {
+						//change button colors
+						var datepicker = $(this).datepicker( "widget" );
+						setTimeout(function(){
+							var buttons = datepicker.find('.ui-datepicker-buttonpane')
+							.find('button');
+							buttons.eq(0).addClass('btn btn-xs');
+							buttons.eq(1).addClass('btn btn-xs btn-success');
+							buttons.wrapInner('<span class="bigger-110" />');
+						}, 0);
+					}
+			*/
+				});
+			
+			
+				//override dialog's title function to allow for HTML titles
+				$.widget("ui.dialog", $.extend({}, $.ui.dialog.prototype, {
+					_title: function(title) {
+						var $title = this.options.title || '&nbsp;'
+						if( ("title_html" in this.options) && this.options.title_html == true )
+							title.html($title);
+						else title.text($title);
+					}
+				}));
+			
+				$( "#id-btn-dialog1" ).on('click', function(e) {
+					e.preventDefault();
+			
+					var dialog = $( "#dialog-message" ).removeClass('hide').dialog({
+						modal: true,
+						title: "<div class='widget-header widget-header-big'><h4 class='smaller'><i class='icon-ok'></i>添加服务器</h4></div>",
+						title_html: true,
+						width : '500',
+						
+						buttons: [ 
+							{
+								text: "关闭",
+								"class" : "btn btn-xs",
+								click: function() {
+									$( this ).dialog( "close" ); 
+								} 
+							},
+							{
+								text: "添加",
+								"class" : "btn btn-primary btn-xs",
+								click: function() {
+									$( this ).dialog( "close" ); 
+								} 
+							}
+						]
+					});
+			
+					/**
+					dialog.data( "uiDialog" )._title = function(title) {
+						title.html( this.options.title );
+					};
+					**/
+				});
+			
+			
+				$( "#id-btn-dialog2" ).on('click', function(e) {
+					e.preventDefault();
+				
+					$( "#dialog-confirm" ).removeClass('hide').dialog({
+						resizable: false,
+						modal: true,
+						title: "<div class='widget-header'><h4 class='smaller'><i class='icon-warning-sign red'></i> Empty the recycle bin?</h4></div>",
+						title_html: true,
+						
+						buttons: [
+							{
+								html: "<i class='icon-trash bigger-110'></i>&nbsp; Delete all items",
+								"class" : "btn btn-danger btn-xs",
+								click: function() {
+									$( this ).dialog( "close" );
+								}
+							}
+							,
+							{
+								html: "<i class='icon-remove bigger-110'></i>&nbsp; Cancel",
+								"class" : "btn btn-xs",
+								click: function() {
+									$( this ).dialog( "close" );
+								}
+							}
+						]
+					});
+				});
+
+
+			
+				//slider example
+				$( "#slider" ).slider({
+					range: true,
+					min: 0,
+					max: 500,
+					values: [ 75, 300 ]
+				});
+
+				//缩图
+				$('#id-input-file-1 , #id-input-file-2').ace_file_input({
+					no_file:'No File ...',
+					btn_choose:'Choose',
+					btn_change:'Change',
+					droppable:false,
+					onchange:null,
+					thumbnail:false //| true | large
+					//whitelist:'gif|png|jpg|jpeg'
+					//blacklist:'exe|php'
+					//onchange:''
+					//
+				});
+				
+				//时间插件
+
+
+				
+				$('#timepicker1').timepicker({
+					minuteStep: 1,
+					showSeconds: true,
+					showMeridian: false
+				}).next().on(ace.click_event, function(){
+					$(this).prev().focus();
+				});
+				
+
+
+	
+			});
+		</script>
+
+
+</body>
+</html>

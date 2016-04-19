@@ -1,0 +1,210 @@
+[ 2016-03-17T13:44:26+08:00 ] ::1 /webgame/index.php/Member/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+ERR: 无法加载模块:Member
+
+[ 2016-03-17T14:13:15+08:00 ] ::1 /webgame/index.php/System/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:System
+
+[ 2016-03-17T16:44:34+08:00 ] ::1 /webgame/index.php/system/group_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载模块:System
+
+[ 2016-03-17T16:47:36+08:00 ] ::1 /webgame/index.php/system/group_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:System
+
+[ 2016-03-17T16:47:39+08:00 ] ::1 /webgame/index.php/system/group_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:System
+
+[ 2016-03-17T17:00:53+08:00 ] ::1 /webgame/index.php/system/group_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+ERR: 无法加载模块:System
+
+[ 2016-03-17T17:01:00+08:00 ] ::1 /webgame/index.php/system/group_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+ERR: 无法加载模块:System
+
+[ 2016-03-17T17:17:05+08:00 ] ::1 /webgame/index.php/system/group_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:System
+
+[ 2016-03-17T19:24:34+08:00 ] ::1 /webgame/index.php/System/role_add/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:System
+
+[ 2016-03-17T20:53:01+08:00 ] ::1 /webgame/Public/admin/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Public
+
+[ 2016-03-17T20:53:01+08:00 ] ::1 /webgame/Public/admin/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+ERR: 无法加载模块:Public
+
+[ 2016-03-17T22:44:29+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:30+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:31+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:31+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:31+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:31+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:32+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:32+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:32+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:32+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:32+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:33+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:33+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:44:33+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:47:22+08:00 ] ::1 /webgame/index.php/Comhelper/verify?0.7328003337606788
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:47:23+08:00 ] ::1 /webgame/index.php/Comhelper/verify?0.27286357851698995
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T22:47:23+08:00 ] ::1 /webgame/index.php/Comhelper/verify?0.8253214014694095
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T23:04:11+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T23:04:13+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T23:04:13+08:00 ] ::1 /webgame/index.php/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T23:04:15+08:00 ] ::1 /webgame/index.php/Comhelper/verify?0.9556109318509698
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Comhelper
+
+[ 2016-03-17T23:26:10+08:00 ] ::1 /webgame/index.php/Member/registered/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Member
+
+[ 2016-03-17T23:27:09+08:00 ] ::1 /webgame/index.php/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Index
+
+[ 2016-03-17T23:27:35+08:00 ] ::1 /webgame/index.php/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Index
+

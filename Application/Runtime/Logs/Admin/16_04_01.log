@@ -1,0 +1,3055 @@
+[ 2016-04-01T13:19:17+08:00 ] ::1 /webgame/index.php/admin/system/group_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-04-01T13:19:20+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-04-01T13:19:20+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-04-01T13:19:29+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-04-01T13:19:29+08:00 ] ::1 /webgame/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-04-01T13:19:33+08:00 ] ::1 /webgame/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-04-01T13:19:41+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-04-01T13:19:59+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-04-01T13:20:25+08:00 ] ::1 /webgame/index.php/admin/system/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-04-01T13:22:37+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-04-01T13:22:51+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-04-01T13:23:38+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-04-01T13:23:56+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-04-01T13:24:03+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-04-01T13:25:38+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-04-01T13:25:58+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-04-01T13:25:58+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-04-01T13:25:59+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-04-01T13:25:59+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-04-01T13:26:38+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-04-01T13:27:03+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-04-01T13:28:36+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-04-01T13:29:02+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-04-01T13:30:16+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2016-04-01T13:30:18+08:00 ] ::1 /webgame/index.php/admin/system/rule_list/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-04-01T13:30:33+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2016-04-01T13:30:33+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-04-01T13:30:33+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2016-04-01T13:30:41+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-04-01T13:30:42+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-04-01T13:47:09+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-04-01T13:48:01+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-04-01T13:48:10+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-04-01T13:49:31+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-04-01T13:51:53+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-04-01T13:55:16+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-04-01T13:55:23+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-04-01T13:55:43+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-04-01T13:55:53+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+
+[ 2016-04-01T13:55:54+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-04-01T13:55:54+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-04-01T13:55:54+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-04-01T13:55:54+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+
+[ 2016-04-01T13:55:56+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-04-01T13:55:56+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-04-01T13:55:56+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-04-01T13:59:31+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2016-04-01T14:00:37+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-04-01T14:01:29+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-04-01T14:03:42+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-04-01T14:12:31+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-04-01T14:12:53+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+
+[ 2016-04-01T14:12:54+08:00 ] ::1 /webgame/index.php/admin/System/rule_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2016-04-01T14:13:01+08:00 ] ::1 /webgame/index.php/admin/System/rule_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-04-01T14:29:23+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+
+[ 2016-04-01T14:29:37+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-04-01T14:29:43+08:00 ] ::1 /webgame/index.php/admin/System/rule_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-04-01T14:29:46+08:00 ] ::1 /webgame/index.php/admin/system/rule_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2016-04-01T14:29:52+08:00 ] ::1 /webgame/index.php/admin/System/rule_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-04-01T14:30:59+08:00 ] ::1 /webgame/index.php/admin/system/rule_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-04-01T14:31:00+08:00 ] ::1 /webgame/index.php/admin/system/rule_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-04-01T14:31:00+08:00 ] ::1 /webgame/index.php/admin/system/rule_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+
+[ 2016-04-01T14:31:00+08:00 ] ::1 /webgame/index.php/admin/system/rule_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-04-01T14:31:43+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-04-01T14:31:43+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2016-04-01T14:31:51+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2016-04-01T14:31:54+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-04-01T14:31:56+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.8510986354667693
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-04-01T14:31:57+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.31587076000869274
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-04-01T14:32:04+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-04-01T14:32:18+08:00 ] ::1 /webgame/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-04-01T14:34:12+08:00 ] ::1 /webgame/index.php/admin/system/group_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-04-01T14:34:20+08:00 ] ::1 /webgame/index.php/admin/system/group_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-04-01T14:34:21+08:00 ] ::1 /webgame/index.php/admin/system/group_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-04-01T14:34:21+08:00 ] ::1 /webgame/index.php/admin/system/group_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+
+[ 2016-04-01T14:34:21+08:00 ] ::1 /webgame/index.php/admin/system/group_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2016-04-01T14:58:34+08:00 ] ::1 /webgame/index.php/admin/System/group_rule_add/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-04-01T14:58:35+08:00 ] ::1 /webgame/index.php/admin/System/group_rule_add/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-04-01T14:58:36+08:00 ] ::1 /webgame/index.php/admin/System/group_rule_add/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2016-04-01T14:59:03+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-04-01T14:59:06+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-04-01T14:59:16+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.037485015811398625
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-04-01T14:59:23+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2016-04-01T14:59:30+08:00 ] ::1 /webgame/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-04-01T14:59:33+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-04-01T15:00:14+08:00 ] ::1 /webgame/index.php/admin/System/group_rule_add/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-04-01T15:00:37+08:00 ] ::1 /webgame/index.php/admin/system/group_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-04-01T15:00:45+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.7750724218785763
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2016-04-01T15:00:46+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.5915954823140055
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-04-01T15:00:47+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.45927132456563413
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-04-01T15:00:54+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+
+[ 2016-04-01T15:00:58+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-04-01T15:00:58+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-04-01T15:00:58+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-04-01T15:00:58+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-04-01T15:00:58+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-04-01T15:00:58+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+
+[ 2016-04-01T15:01:06+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-04-01T15:01:18+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-04-01T15:01:19+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-04-01T15:01:21+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.8602420801762491
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-04-01T15:01:28+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-04-01T15:01:31+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+
+[ 2016-04-01T15:01:32+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.07143628154881299
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-04-01T15:01:33+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.0763965961523354
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-04-01T15:01:34+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.25019622477702796
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-04-01T15:01:41+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-04-01T15:01:44+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-04-01T15:01:49+08:00 ] ::1 /webgame/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-04-01T15:01:50+08:00 ] ::1 /webgame/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2016-04-01T15:01:50+08:00 ] ::1 /webgame/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-04-01T15:01:50+08:00 ] ::1 /webgame/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2016-04-01T15:01:50+08:00 ] ::1 /webgame/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-04-01T15:01:52+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-04-01T15:02:19+08:00 ] ::1 /webgame/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-04-01T15:04:09+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-04-01T15:04:10+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-04-01T15:04:58+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-04-01T15:04:59+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2016-04-01T15:05:43+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2016-04-01T15:05:44+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-04-01T15:06:18+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004560s ]
+
+[ 2016-04-01T15:06:19+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-04-01T15:07:05+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-04-01T15:07:06+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-04-01T15:08:00+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-04-01T15:08:01+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-04-01T15:08:07+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-04-01T15:08:44+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-04-01T15:08:47+08:00 ] ::1 /webgame/index.php/admin/system/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-04-01T15:09:03+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+
+[ 2016-04-01T15:09:04+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+
+[ 2016-04-01T15:09:12+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-04-01T15:09:28+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-04-01T15:09:39+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-04-01T15:09:44+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-04-01T15:09:45+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-04-01T15:10:25+08:00 ] ::1 /webgame/index.php/admin/system/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-04-01T15:10:35+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-04-01T15:10:59+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2016-04-01T15:11:00+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-04-01T15:11:10+08:00 ] ::1 /webgame/index.php/admin/system/group_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-04-01T15:11:35+08:00 ] ::1 /webgame/index.php/admin/system/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-04-01T15:11:41+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-04-01T15:12:51+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-04-01T15:12:52+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-04-01T15:13:21+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-04-01T15:13:22+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-04-01T15:14:54+08:00 ] ::1 /webgame/index.php/admin/system/group_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-04-01T15:15:19+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-04-01T15:15:20+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-04-01T15:15:31+08:00 ] ::1 /webgame/index.php/admin/system/group_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-04-01T15:16:01+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-04-01T15:16:02+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-04-01T15:16:33+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2016-04-01T15:16:34+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-04-01T15:16:56+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+
+[ 2016-04-01T15:16:57+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-04-01T15:17:55+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-04-01T15:17:56+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-04-01T15:18:17+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000938s ]
+
+[ 2016-04-01T15:18:18+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2016-04-01T15:18:49+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-04-01T15:18:50+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-04-01T15:19:07+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-04-01T15:19:08+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-04-01T15:19:29+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2016-04-01T15:19:35+08:00 ] ::1 /webgame/index.php/admin/system/group_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-04-01T15:19:42+08:00 ] ::1 /webgame/index.php/admin/System/group_rule_add/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-04-01T15:20:57+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-04-01T15:20:58+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2016-04-01T15:21:30+08:00 ] ::1 /webgame/index.php/admin/System/group_menu_add/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-04-01T15:21:39+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-04-01T15:21:40+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-04-01T15:23:28+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001327s ]
+
+[ 2016-04-01T15:23:29+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2016-04-01T15:24:04+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-04-01T15:24:05+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-04-01T15:24:20+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-04-01T15:24:21+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-04-01T15:24:39+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004442s ]
+
+[ 2016-04-01T15:24:40+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-04-01T15:26:27+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+
+[ 2016-04-01T15:26:49+08:00 ] ::1 /webgame/index.php/admin/member/member_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-04-01T15:27:01+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-04-01T15:27:03+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2016-04-01T15:27:14+08:00 ] ::1 /webgame/index.php/admin/member/member_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-04-01T15:27:44+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2016-04-01T15:27:46+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-04-01T15:28:06+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+
+[ 2016-04-01T15:28:08+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-04-01T15:28:46+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-04-01T15:28:47+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2016-04-01T15:29:59+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2016-04-01T15:30:00+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-04-01T15:31:05+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-04-01T15:31:06+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+
+[ 2016-04-01T15:31:13+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-04-01T15:32:51+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-04-01T15:32:51+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+
+[ 2016-04-01T15:32:51+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-04-01T15:32:51+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003181s ]
+
+[ 2016-04-01T15:32:51+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2016-04-01T15:32:51+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-04-01T15:33:05+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2016-04-01T15:33:08+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2016-04-01T15:33:15+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.08238866552710533
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-04-01T15:33:20+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-04-01T15:33:23+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-04-01T15:35:10+08:00 ] ::1 /webgame/index.php/admin/Base/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-04-01T15:35:11+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-04-01T15:35:12+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-04-01T15:35:25+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.22917494154535234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-04-01T15:35:27+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.11239325255155563
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-04-01T15:35:33+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+
+[ 2016-04-01T15:35:36+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-04-01T15:35:48+08:00 ] ::1 /webgame/index.php/admin/system/group_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-04-01T15:35:54+08:00 ] ::1 /webgame/index.php/admin/System/group_rule_add/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-04-01T15:45:29+08:00 ] ::1 /webgame/index.php/admin/System/group_rule_add/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+
+[ 2016-04-01T15:45:30+08:00 ] ::1 /webgame/index.php/admin/System/group_rule_add/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-04-01T15:45:30+08:00 ] ::1 /webgame/index.php/admin/System/group_rule_add/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-04-01T15:45:34+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-04-01T15:45:34+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2016-04-01T15:45:34+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+
+[ 2016-04-01T15:45:34+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-04-01T15:45:34+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2016-04-01T15:45:34+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-04-01T15:45:43+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.8576032558921725
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-04-01T15:45:44+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.5129571740981191
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-04-01T15:45:50+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-04-01T15:45:58+08:00 ] ::1 /webgame/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-04-01T15:45:58+08:00 ] ::1 /webgame/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-04-01T15:47:19+08:00 ] ::1 /webgame/index.php/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2016-04-01T15:47:28+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-04-01T15:47:30+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-04-01T15:47:46+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-04-01T15:48:01+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2016-04-01T15:48:04+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-04-01T15:48:13+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-04-01T15:48:14+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-04-01T15:48:14+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+
+[ 2016-04-01T15:48:16+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-04-01T16:35:11+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-04-01T16:35:54+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-04-01T16:40:54+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-04-01T16:40:54+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-04-01T16:40:55+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-04-01T16:42:07+08:00 ] ::1 /webgame/index.php/admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2016-04-01T16:42:09+08:00 ] ::1 /webgame/index.php/admin/Base/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-04-01T16:42:10+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-04-01T16:42:10+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-04-01T16:42:19+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.7788973602000624
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-04-01T16:42:24+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-04-01T16:42:24+08:00 ] ::1 /webgame/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-04-01T16:42:39+08:00 ] ::1 /webgame/index.php/admin/system/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-04-01T16:43:06+08:00 ] ::1 /webgame/index.php/admin/system/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-04-01T16:43:11+08:00 ] ::1 /webgame/index.php/admin/member/member_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-04-01T16:43:35+08:00 ] ::1 /webgame/index.php/admin/System/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-04-01T16:43:36+08:00 ] ::1 /webgame/index.php/admin/system/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-04-01T16:44:48+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-04-01T16:44:48+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-04-01T16:46:34+08:00 ] ::1 /webgame/index.php/admin/Member/member_role/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 非法操作:member_role
+
+[ 2016-04-01T16:47:04+08:00 ] ::1 /webgame/index.php/admin/member/member_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2016-04-01T16:47:05+08:00 ] ::1 /webgame/index.php/admin/Member/member_rule/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-04-01T16:47:27+08:00 ] ::1 /webgame/index.php/admin/Member/member_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-04-01T16:47:35+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2016-04-01T16:47:43+08:00 ] ::1 /webgame/index.php/admin/member/member_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-04-01T16:47:48+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-04-01T16:48:51+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/32
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-04-01T16:49:04+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-04-01T16:50:51+08:00 ] ::1 /webgame/index.php/admin/member/member_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-04-01T16:50:54+08:00 ] ::1 /webgame/index.php/admin/Member/member_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+
+[ 2016-04-01T16:50:54+08:00 ] ::1 /webgame/index.php/admin/Member/member_edit/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+
+[ 2016-04-01T16:50:57+08:00 ] ::1 /webgame/index.php/admin/Member/member_rule/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-04-01T16:52:36+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-04-01T16:53:18+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-04-01T16:56:52+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2016-04-01T17:06:44+08:00 ] ::1 /webgame/index.php/admin/system/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+
+[ 2016-04-01T17:06:48+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-04-01T17:08:52+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-04-01T17:09:25+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001308s ]
+
+[ 2016-04-01T17:10:05+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-04-01T17:10:52+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-04-01T17:11:14+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-04-01T17:13:05+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-04-01T17:13:26+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-04-01T17:17:00+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-04-01T17:17:01+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-04-01T17:17:01+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-04-01T17:19:05+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-04-01T17:19:56+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+
+[ 2016-04-01T17:20:12+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-04-01T17:20:18+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2016-04-01T17:20:58+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-04-01T17:20:59+08:00 ] ::1 /webgame/index.php/admin/system/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2016-04-01T17:22:21+08:00 ] ::1 /webgame/index.php/admin/system/menu_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-04-01T17:25:43+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2016-04-01T17:25:44+08:00 ] ::1 /webgame/index.php/admin/system/rule_edit/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2016-04-01T17:28:50+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-04-01T17:28:53+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2016-04-01T17:30:05+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-04-01T17:30:55+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-04-01T17:31:12+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000993s ]
+
+[ 2016-04-01T17:31:28+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000937s ]
+
+[ 2016-04-01T17:32:23+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2016-04-01T17:34:46+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+
+[ 2016-04-01T17:34:49+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2016-04-01T17:34:49+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-04-01T17:35:02+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-04-01T17:35:47+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-04-01T17:35:49+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-04-01T17:35:52+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2016-04-01T17:36:01+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-04-01T17:36:01+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-04-01T17:38:24+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-04-01T17:38:39+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-04-01T17:43:23+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-04-01T17:43:27+08:00 ] ::1 /webgame/index.php/admin/System/menu_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+
+[ 2016-04-01T17:43:28+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-04-01T17:43:30+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+
+[ 2016-04-01T17:43:34+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-04-01T17:43:39+08:00 ] ::1 /webgame/index.php/admin/System/menu_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-04-01T17:43:40+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-04-01T17:43:43+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-04-01T17:45:52+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2016-04-01T17:46:00+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-04-01T17:46:03+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+
+[ 2016-04-01T17:46:51+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-04-01T17:54:20+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-04-01T17:54:39+08:00 ] ::1 /webgame/index.php/admin/Base/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2016-04-01T17:54:40+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-04-01T17:54:40+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-04-01T17:55:12+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-04-01T17:55:12+08:00 ] ::1 /webgame/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-04-01T17:57:46+08:00 ] ::1 /webgame/index.php/admin/Base/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+
+[ 2016-04-01T17:57:47+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-04-01T17:57:47+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-04-01T17:57:56+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2016-04-01T17:57:56+08:00 ] ::1 /webgame/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-04-01T18:38:51+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+
+[ 2016-04-01T18:40:15+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 模板不存在:./Application/Admin/View/User/index.html
+
+[ 2016-04-01T18:40:54+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2016-04-01T18:46:24+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+
+[ 2016-04-01T18:46:47+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-04-01T18:49:43+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2016-04-01T18:49:43+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+
+[ 2016-04-01T18:49:43+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+
+[ 2016-04-01T18:51:06+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2016-04-01T18:57:16+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+
+[ 2016-04-01T18:57:31+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-04-01T18:57:58+08:00 ] ::1 /webgame/index.php/admin/System/menu_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-04-01T18:57:59+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+
+[ 2016-04-01T18:58:06+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-04-01T18:58:14+08:00 ] ::1 /webgame/index.php/admin/System/menu_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002047s ]
+
+[ 2016-04-01T18:58:15+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-04-01T18:58:19+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-04-01T18:58:23+08:00 ] ::1 /webgame/index.php/admin/System/menu_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+
+[ 2016-04-01T18:58:25+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-04-01T19:02:15+08:00 ] ::1 /webgame/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-04-01T19:02:17+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-04-01T19:03:04+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+
+[ 2016-04-01T19:03:28+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-04-01T19:03:56+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2016-04-01T19:04:03+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2016-04-01T19:04:24+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-04-01T19:04:53+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-04-01T19:05:22+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-04-01T19:06:12+08:00 ] ::1 /webgame/index.php/admin/Base/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-04-01T19:06:13+08:00 ] ::1 /webgame/index.php/admin/base/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-04-01T19:06:13+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-04-01T19:06:20+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2016-04-01T19:06:23+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-04-01T19:06:23+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-04-01T19:06:25+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.5936339327599853
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-04-01T19:06:27+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify?0.35080578876659274
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-04-01T19:06:36+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-04-01T19:06:36+08:00 ] ::1 /webgame/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002429s ]
+
+[ 2016-04-01T19:08:41+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-04-01T19:11:54+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+
+[ 2016-04-01T19:12:24+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+
+[ 2016-04-01T19:13:02+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-04-01T19:13:17+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-04-01T19:13:32+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-04-01T19:13:57+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-04-01T19:16:18+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2016-04-01T19:16:47+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2016-04-01T19:17:11+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-04-01T19:17:30+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-04-01T19:21:43+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+
+[ 2016-04-01T19:22:05+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-04-01T19:23:28+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-04-01T19:23:29+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-04-01T19:23:29+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-04-01T19:27:16+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-04-01T19:27:21+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2016-04-01T19:27:28+08:00 ] ::1 /webgame/index.php/admin/System/menu_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-04-01T19:27:29+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001007s ]
+
+[ 2016-04-01T19:27:47+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+
+[ 2016-04-01T19:27:51+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2016-04-01T19:28:40+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+
+[ 2016-04-01T19:29:26+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2016-04-01T19:56:52+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+
+[ 2016-04-01T19:57:50+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-04-01T20:00:06+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+
+[ 2016-04-01T20:00:14+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002446s ]
+
+[ 2016-04-01T20:06:44+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+
+[ 2016-04-01T20:07:41+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+ERR: Think\Controller:upload方法不存在！
+
+[ 2016-04-01T20:09:41+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: Think\Controller:test方法不存在！
+
+[ 2016-04-01T20:10:59+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-04-01T20:11:41+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: Think\Controller:test方法不存在！
+
+[ 2016-04-01T20:19:01+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: Think\Controller:upload方法不存在！
+
+[ 2016-04-01T20:36:47+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001354s ]
+
+[ 2016-04-01T20:36:48+08:00 ] ::1 /webgame/index.php/admin/game/game_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+
+[ 2016-04-01T20:38:37+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-04-01T20:39:17+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-04-01T20:40:28+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-04-01T20:42:03+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+
+[ 2016-04-01T20:45:17+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001109s ]
+
+[ 2016-04-01T20:46:15+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-04-01T20:46:21+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-04-01T20:47:47+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-04-01T20:47:50+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+
+[ 2016-04-01T20:50:21+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2016-04-01T20:50:27+08:00 ] ::1 /webgame/index.php/admin/game_edit/id/2/gameid/clx2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载控制器:GameEdit
+
+[ 2016-04-01T20:57:38+08:00 ] ::1 /webgame/index.php/admin/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+ERR: 无法加载控制器:GameEdit
+
+[ 2016-04-01T20:59:36+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-04-01T20:59:37+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2016-04-01T20:59:44+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-04-01T21:01:01+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+
+[ 2016-04-01T21:01:33+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001197s ]
+
+[ 2016-04-01T21:05:43+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-04-01T21:10:34+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001468s ]
+
+[ 2016-04-01T21:15:34+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-04-01T21:17:19+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-04-01T21:33:35+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-04-01T21:33:42+08:00 ] ::1 /webgame/index.php/admin/game/game_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+
+[ 2016-04-01T21:33:45+08:00 ] ::1 /webgame/index.php/admin/game/game_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2016-04-01T21:33:47+08:00 ] ::1 /webgame/index.php/admin/game/game_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+
+[ 2016-04-01T21:33:48+08:00 ] ::1 /webgame/index.php/admin/game/game_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+
+[ 2016-04-01T21:33:48+08:00 ] ::1 /webgame/index.php/admin/game/game_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-04-01T21:33:53+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2016-04-01T21:33:54+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-04-01T21:33:54+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-04-01T21:33:54+08:00 ] ::1 /webgame/index.php/admin/game/game_edit/id/4/gameid/ht
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+
+[ 2016-04-01T21:33:58+08:00 ] ::1 /webgame/index.php/admin/game/game_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2016-04-01T21:34:00+08:00 ] ::1 /webgame/index.php/admin/game/game_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2016-04-01T21:34:01+08:00 ] ::1 /webgame/index.php/admin/game/game_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+
+[ 2016-04-01T21:34:02+08:00 ] ::1 /webgame/index.php/admin/game/game_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-04-01T21:34:38+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+
+[ 2016-04-01T21:34:47+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003757s ]
+
+[ 2016-04-01T21:34:47+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+
+[ 2016-04-01T21:35:21+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+
+[ 2016-04-01T21:40:26+08:00 ] ::1 /webgame/index.php/admin/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+
+[ 2016-04-01T21:41:14+08:00 ] ::1 /webgame/index.php/admin/game/game_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-04-01T21:41:25+08:00 ] ::1 /webgame/index.php/admin/Comhelper/verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2016-04-01T21:41:31+08:00 ] ::1 /webgame/index.php/admin/Base/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-04-01T22:07:42+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-04-01T22:08:00+08:00 ] ::1 /webgame/index.php/admin/system/menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2016-04-01T22:08:09+08:00 ] ::1 /webgame/index.php/admin/system/menu_edit/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-04-01T22:08:37+08:00 ] ::1 /webgame/index.php/admin/System/menu_edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+
+[ 2016-04-01T22:08:38+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-04-01T22:08:39+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-04-01T22:08:40+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-04-01T22:08:40+08:00 ] ::1 /webgame/index.php/admin/system/menu_list.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+
+[ 2016-04-01T22:08:43+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:08:43+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:03+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:11:06+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 模板不存在:./Application/Admin/View/Server/server_list.html
+
+[ 2016-04-01T22:12:20+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-04-01T22:13:04+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-04-01T22:13:33+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-04-01T22:13:46+08:00 ] ::1 /webgame/index.php/admin/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+
+[ 2016-04-01T22:15:27+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-04-01T22:15:46+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-04-01T22:16:30+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-04-01T22:16:42+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+
+[ 2016-04-01T22:17:21+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-04-01T22:18:53+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+
+[ 2016-04-01T22:18:56+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-04-01T22:19:24+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-04-01T22:19:48+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+
+[ 2016-04-01T22:21:36+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+
+[ 2016-04-01T22:25:19+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-04-01T22:26:04+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-04-01T22:26:06+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-04-01T22:26:10+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2016-04-01T22:26:12+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2016-04-01T22:26:41+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2016-04-01T22:26:44+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2016-04-01T22:26:46+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+
+[ 2016-04-01T22:26:48+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-04-01T22:26:50+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-04-01T22:26:51+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-04-01T22:26:52+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001110s ]
+
+[ 2016-04-01T22:27:19+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-04-01T22:27:28+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-04-01T22:27:34+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-04-01T22:27:36+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+
+[ 2016-04-01T22:27:36+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-04-01T22:27:38+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2016-04-01T22:27:38+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+
+[ 2016-04-01T22:27:39+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-04-01T22:27:58+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-04-01T22:27:58+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-04-01T22:28:05+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+
+[ 2016-04-01T22:28:05+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+
+[ 2016-04-01T22:28:06+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-04-01T22:28:06+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+
+[ 2016-04-01T22:28:06+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+
+[ 2016-04-01T22:28:09+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-04-01T22:28:09+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-04-01T22:28:10+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+
+[ 2016-04-01T22:28:10+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-04-01T22:28:17+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-04-01T22:28:18+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-04-01T22:28:18+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2016-04-01T22:28:18+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2016-04-01T22:28:20+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+
+[ 2016-04-01T22:28:20+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2016-04-01T22:28:20+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-04-01T22:28:42+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2016-04-01T22:28:43+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000675s ]
+
+[ 2016-04-01T22:28:44+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-04-01T22:28:45+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-04-01T22:28:48+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-04-01T22:28:48+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2016-04-01T22:28:48+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+
+[ 2016-04-01T22:28:52+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-04-01T22:28:52+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-04-01T22:28:52+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-04-01T22:28:52+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+
+[ 2016-04-01T22:29:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+
+[ 2016-04-01T22:29:05+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-04-01T22:29:27+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+
+[ 2016-04-01T22:29:32+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-04-01T22:29:56+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2016-04-01T22:29:56+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-04-01T22:29:56+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-04-01T22:29:57+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+
+[ 2016-04-01T22:29:58+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-04-01T22:29:58+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-04-01T22:29:58+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-04-01T22:29:59+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-04-01T22:29:59+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-04-01T22:30:00+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-04-01T22:30:01+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2016-04-01T22:30:01+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2016-04-01T22:30:01+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+
+[ 2016-04-01T22:30:02+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-04-01T22:30:03+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-04-01T22:30:03+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-04-01T22:30:07+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-04-01T22:30:07+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+
+[ 2016-04-01T22:30:08+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001073s ]
+
+[ 2016-04-01T22:30:08+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-04-01T22:30:13+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-04-01T22:30:13+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-04-01T22:30:13+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-04-01T22:30:14+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-04-01T22:30:15+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-04-01T22:30:15+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+
+[ 2016-04-01T22:30:15+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-04-01T22:30:16+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-04-01T22:30:19+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-04-01T22:30:27+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2016-04-01T22:30:31+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-04-01T22:30:31+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+
+[ 2016-04-01T22:31:52+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+
+[ 2016-04-01T22:31:52+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-04-01T22:31:52+08:00 ] ::1 /webgame/index.php/admin/server/server_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2016-04-01T22:31:53+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2016-04-01T22:31:54+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+
+[ 2016-04-01T22:31:54+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+
+[ 2016-04-01T22:31:54+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-04-01T22:31:55+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-04-01T22:31:55+08:00 ] ::1 /webgame/index.php/admin/system/rule_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-04-01T22:31:56+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-04-01T22:31:57+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-04-01T22:31:57+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-04-01T22:31:57+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+
+[ 2016-04-01T22:31:58+08:00 ] ::1 /webgame/index.php/admin/game/game_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-04-01T22:51:01+08:00 ] ::1 /webgame/index.php/admin/member/member_info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 非法操作:member_info
+
+[ 2016-04-01T22:51:59+08:00 ] ::1 /webgame/index.php/admin/System/rule_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+
